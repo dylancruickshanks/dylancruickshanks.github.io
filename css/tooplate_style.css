@@ -1,11 +1,6 @@
-/* 
-
-Template 2023 Mini Blue
-
-http://www.tooplate.com/view/2023-mini-blue
-
-*/
-
+html {
+	scroll-behavior: smooth;
+}
 body {
 	margin: 0;
 	padding: 0;
@@ -37,7 +32,7 @@ a.gototop {
 	width: 105px; 
 	height: 30px; 
 	background: url(../images/tooplate_gototop.png)  no-repeat; 
-	outline: none; 
+	outline: none;
 }
 
 a.gototop:hover { 
@@ -130,24 +125,6 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 	height: 24px;
 	padding: 8px 0;
 	text-align: right
-}
-
-#social_box a { 
-	display: inline-block; 
-	padding-left: 30px; 
-	margin-left: 50px; 
-}
-
-#social_box a.facebook { 
-	background: url(../images/facebook.png) no-repeat left center; 
-}
-
-#social_box a.twitter { 
-	background: url(../images/twitter.png) no-repeat left center; 
-}
-
-#social_box a.myspace { 
-	background: url(../images/myspace.png) no-repeat left center; 
 }
 
 #site_title { 
@@ -353,4 +330,14 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 #tooplate_footer a {
 	color: #fff;
 }.sitetitle {
+}
+.btn-home {
+}
+.btn-about {
+}
+.btn-documents {
+}
+.btn-contact {
+}
+.btn-map {
 }
